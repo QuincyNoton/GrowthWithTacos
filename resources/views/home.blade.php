@@ -23,7 +23,7 @@
     <body class="antialiased">
             <div class="container">
                 <h1 align=center>Welcome to the future site of Growth with Tacos!</h1>
-                <p align=center>We're an up-and-coming podcast that runs discussions on subjects such as video games an politics.</p>
+                <p align=center>We're an up-and-coming podcast that runs discussions on subjects such as video games and politics.</p>
             </div>
     </body>
 </html>
